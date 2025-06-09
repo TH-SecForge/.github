@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) This is my organization.
 ===================================================================================================================================
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bde905a4-f71d-41d4-a554-76f893662a2f/deploy-status)](https://app.netlify.com/projects/dashsecurity/deploys)
+
 We focus on developing hacking tools and welcome anyone who wants to join and develop tools together.
 ----------------------------------------
 
